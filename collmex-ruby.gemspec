@@ -9,7 +9,6 @@ Gem::Specification.new do |s|
   s.files       = Dir['lib/**/*.rb']
   s.homepage    = 'https://github.com/romanlehnert/collmex-ruby'
   s.license     = "MIT"
-  s.add_development_dependency 'json', '~> 1.8.0'
   s.add_development_dependency 'rspec', '~> 2.5'
   s.add_development_dependency 'webmock'
   s.add_development_dependency 'vcr'
